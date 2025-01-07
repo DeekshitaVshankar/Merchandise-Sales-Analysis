@@ -50,3 +50,10 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deeksh
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buttons.png
 
 _Feel free to drop an email to access the interactive version of the dashboard._
+
+**_Useful Resources_**
+
+Power BI Documentation: https://learn.microsoft.com/en-us/power-bi/
+Power Query Documentation: [Power Query Overview.](https://learn.microsoft.com/en-us/power-query/)
+DAX Documentation: [DAX Guide.](https://learn.microsoft.com/en-us/dax/)
+Excel Advanced Documentation: https://support.microsoft.com/en-us/excel
