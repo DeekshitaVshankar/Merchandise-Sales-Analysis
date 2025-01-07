@@ -49,4 +49,4 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deeksh
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Slicer.png
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buttons.png
 
-_Feel free to drop an email for access to the interactive version of the dashboard._
+_Feel free to drop an email to access the interactive version of the dashboard._
