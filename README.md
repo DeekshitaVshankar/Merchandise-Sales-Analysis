@@ -6,7 +6,17 @@ This project showcases a Power BI dashboard analyzing the merchandise sales of i
 ### Tools and Technologies
 - **Power BI**: For creating interactive visualisations.
 - **DAX Coding**: For custom measures like repeat purchase rates and international sales %.  
-- **Excel/Power Query**: For initial data preparation.
+- **Excel, Power Query**: For initial data preparation (processing and cleaning.
+
+### Analysis Methodology
+
+- Data Preparation: The raw data was cleaned and transformed using Power Query and Advanced Excel, ensuring consistency and usability for further analysis.
+- DAX Calculations: Custom measures were created using DAX formulas to enhance the depth of the analysis.
+- Trend Analysis: Sales trends were examined over time, identifying patterns and seasonal fluctuations in product demand.
+- Product and Category Performance: Product categories were assessed to determine the highest-grossing segments, helping to inform marketing and inventory strategies.
+- Demographic Analysis: The demographic profile of buyers (age, gender, location) was analysed to identify key customer segments and optimise targeting.
+- Shipping Insights: Shipping charges were analysed by category and region to identify opportunities for cost savings and operational improvements.
+- Sentiment Analysis: Product ratings and reviews were correlated with sales data to understand customer sentiment and its influence on purchasing decisions.
 
 ### DAX Calculations
 
@@ -38,3 +48,5 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deeksh
 
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Slicer.png
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buttons.png
+
+_Feel free to drop an email for access to the interactive version of the dashboard._
