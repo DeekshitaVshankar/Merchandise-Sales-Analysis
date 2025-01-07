@@ -1,0 +1,59 @@
+##DAX Calculations
+
+## 1. KPIs
+ 
+Total Sales = SUM('Data'[Total Sales])
+
+Total Orders = COUNTROWS('Data')
+
+International Sales % = 
+DIVIDE(
+  CALCULATE(SUM('Data'[Total Sales]), 'Data'[International Shipping] = "Yes"),
+  SUM('Data'[Total Sales])
+) * 100
+
+Average Rating = AVERAGE('Data'[Rating])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+
+
+## 2.Product Performance
+
+Repeat Purchases = 
+COUNTROWS(
+  FILTER('Data', COUNTROWS(
+    FILTER('Data', 'Data'[Buyer] = EARLIER('Data'[Buyer]))
+  ) > 1)
+)
+
+Sales by Product Category = 
+SUMX(
+  FILTER('Data', 'Data'[Product Category] = EARLIER('Data'[Product Category])),
+  'Data'[Total Sales]
+)
+
+Orders per Product = 
+CALCULATE(
+  COUNTROWS('Data'),
+  ALLEXCEPT('Data', 'Data'[Product ID])
+)
+
+## 3.Shipping & Discounts
+
+Shipping Charges by Category = 
+CALCULATE(SUM('Data'[Shipping Charges]), ALLEXCEPT('Data', 'Data'[Product Category]))
+
+Discount Applied = IF('Data'[Sales per Unit] < 'Data'[Sales Price], "Yes", "No")
+
+## 4.Demographics
+
+Sales by Age Group = 
+CALCULATE(SUM('Data'[Total Sales]), ALLEXCEPT('Data', 'Data'[Buyer Age Group]))
+
+## 5. Time-Based Trends
+
+Sales by Month = 
+CALCULATE(SUM('Data'[Total Sales]), 'Data'[Order Date].[Month])
+
+Sales by Quarter = 
+CALCULATE(SUM('Data'[Total Sales]), 'Data'[Order Date].[Quarter])
