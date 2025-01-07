@@ -1,12 +1,12 @@
 # Merchandise Sales Analysis
 
 ### Introduction
-This project showcases a Power BI dashboard analyzing the merchandise sales of influencer Lee Chatmen. It explores sales trends, product performance, buyer demographics, and shipping optimisations.
+This project showcases a Power BI dashboard analysing the merchandise sales of influencer Lee Chatmen. It explores sales trends, product performance, buyer demographics, and shipping optimisations.
 
 ### Tools and Technologies
 - **Power BI**: For creating interactive visualisations.
 - **DAX Coding**: For custom measures like repeat purchase rates and international sales %.  
-- **Excel, Power Query**: For initial data preparation (processing and cleaning.
+- **Excel, Power Query**: For initial data preparation (processing and cleaning).
 
 ### Analysis Methodology
 
@@ -44,12 +44,12 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/DAX_Co
 
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Actionpoints_page-0004.jpg
 
-### How does the Slicer & Buttons look like
+### How does the Slicer (Used for Filtering- Multi Filters) & Buttons (Used for Navigation) look like
 
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Slicer.png
 https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buttons.png
 
-_Feel free to drop an email to access the interactive version of the dashboard._
+_Feel free to drop an email to access the interactive version of the dashboard and for the Data Source._
 
 **_Useful Resources_**
 
