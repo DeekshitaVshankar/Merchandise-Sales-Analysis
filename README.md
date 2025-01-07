@@ -31,7 +31,7 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/DAX_Co
   ![Buyer Insights](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buyer_page-0003.jpg)
 
 - **Action Points** 
-  ![Actionpoints Insights]([https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Actionpoints_page-0004].jpg)
+  ![Actionpoints Insights]([[https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Actionpoints_page-0004].jpg)]
 
 ### How does the Slicer & Buttons look like
 
