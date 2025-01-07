@@ -25,8 +25,15 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/DAX_Co
   ![Overview](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Overviewpage-0001.jpg)
 
 - **Product Performance & Trends**  
-  ![Trends]([Images/product_trends.png](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Performance_page-0002.jpg))
+  ![Trends](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Performance_page-0002.jpg)
 
 - **Buyer Trends & Insights**  
-  ![Buyer Insights]([Images/buyer_insights.png](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buyer_page-0003.jpg))
+  ![Buyer Insights](https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buyer_page-0003.jpg)
 
+- **Action Points** 
+  ![Buyer Insights]([https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buyer_page-0003.jpg)
+
+### How does the Slicer & Buttons look like
+
+https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Slicer.png
+https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/Deekshita_Onyx_Buttons.png
