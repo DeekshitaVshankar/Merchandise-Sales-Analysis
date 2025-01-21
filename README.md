@@ -29,6 +29,8 @@ https://github.com/DeekshitaVshankar/Merchandise-Sales-Analysis/blob/main/DAX_Co
 - **Demographics:** 26–35 age group drives 55.11% of orders; males contribute 70.16%.
 - **Shipping Costs:** Highest for the Clothing category (£54K).
 
+###Find my interactive report here- https://app.powerbi.com/view?r=eyJrIjoiY2Y2ZjVlNmItMDdmNC00OGU4LTg5YWMtMDBjYjVjOWNlMGUzIiwidCI6ImViZmNjNmVhLTUxNmUtNGE2YS1hMGMzLTI5ZTUxMDg4ZWRmYyIsImMiOjh9
+
 ### Dashboard Screenshots
 
 - **Overview Page**  
